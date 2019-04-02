@@ -1,2 +1,2 @@
-# teamCanon
-Data Science for Canon
+# team Canon
+Data Science for Canon!
